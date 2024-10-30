@@ -8,22 +8,22 @@ Este repositorio es el __primer repositorio__ creado en clase para practicar los
 
 ### COMANDOS GIT UTILIZADOS
 
-- [✔️] `git init` - Inicializa un nuevo repositorio de Git.
+- [x] `git init` - Inicializa un nuevo repositorio de Git.
 - [  ] `git clone <url>` - Clona un repositorio remoto.
-- [✔️] `git status` - Muestra el estado de los cambios en el repositorio.
-- [✔️] `git add <archivo>` - Añade un archivo al área de preparación.
-- [✔️] `git commit -m "mensaje"` - Realiza un commit con un mensaje descriptivo.
-- [✔️] `git push` - Envía los commits al repositorio remoto.
+- [x] `git status` - Muestra el estado de los cambios en el repositorio.
+- [x] `git add <archivo>` - Añade un archivo al área de preparación.
+- [x] `git commit -m "mensaje"` - Realiza un commit con un mensaje descriptivo.
+- [x] `git push` - Envía los commits al repositorio remoto.
 - [ ] `git pull` - Actualiza el repositorio local con los cambios del remoto.
-- [✔️] `git branch` - Muestra las ramas existentes.
-- [✔️] `git checkout <rama>` - Cambia a una rama específica.
+- [x] `git branch` - Muestra las ramas existentes.
+- [x] `git checkout <rama>` - Cambia a una rama específica.
 - [ ] `git merge <rama>` - Fusiona una rama con la rama actual.
-- [✔️] `git remote add <nombre> <url>` - Añade un repositorio remoto.
+- [x] `git remote add <nombre> <url>` - Añade un repositorio remoto.
 - [ ] `git remote -v` - Muestra los repositorios remotos.
 - [ ] `git fetch` - Descarga objetos y referencias desde otro repositorio.
 - [ ] `git rebase <rama>` - Reaplica commits en la cima de otra base.
 - [ ] `git stash` - Almacena temporalmente los cambios no confirmados.
-- [✔️] `git log` - Muestra el historial de commits.
+- [x] `git log` - Muestra el historial de commits.
 - [ ] `git diff` - Muestra las diferencias entre commits, ramas, archivos, etc.
 - [ ] `git tag <nombre>` - Crea una etiqueta en un commit específico.
 
